@@ -1,4 +1,6 @@
-"homepage": https://github.com/Raghavendra0348/NeuroChat/
+"homepage": "https://Raghavendra0348.github.io/NeuroChat"
+
+
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
